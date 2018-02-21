@@ -13,11 +13,8 @@ optimal path. This class requires run time arguments.
 
 Run Code:
 Please follow below steps to run the code:
-1. The code is kept in folder in the fashion: assignment1_chs8824/find_route_pck
-2. Folder find_route_pck contains FindRoute.java, Stations.java and input.txt.
-2. Open your shell terminal and change current directory to code directory
-by typing following command :
-cd assignment1_chs8824/find_route_pck
+1. The code is kept in folder in the fashion: find_route
+2. Folder find_route contains FindRoute.java, Stations.java and input.txt.
 3. Now compile the java file before excecuting it by following command :
 javac Stations.java
 javac FindRoute.java
