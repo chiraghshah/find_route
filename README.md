@@ -26,7 +26,7 @@ java FindRoute input.txt Bremen Frankfurt
 5.You can change the last three input arguments but make sure there are no extra spaces.
 6.If the input text file to be used is placed at othr folder then make sure you give 
 correct path for it.
-E.g. java FindRoute /home/c/ch/chs8824/AI/FindRoute/input1.txt Bremen Frankfurt
+E.g. java FindRoute input1.txt Bremen Frankfurt
 
 
 
